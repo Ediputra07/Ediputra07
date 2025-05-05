@@ -1,18 +1,12 @@
 ![BangEdy](./img/github-header-image.png)
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl0Mm1jeGhqMHVqd2JoaDBnbGh2YzNrOTB0ajFjc3VrM2Zpdms1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EvqAD0P9gwbOo/giphy.gif"  />
-
-###
 
 <h1 align="left">Hello World!! I'm Edi Putra 👋</h1>
 
-###
-
 <h3 align="left">Student | Developer | Content Creator</h3>
 
-###
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/bangedy07" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
