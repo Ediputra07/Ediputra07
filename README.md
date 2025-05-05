@@ -1,10 +1,11 @@
 ![BangEdy](./img/github-header-image.png)
 
 
-<h1 align="left">Hello World!! I'm Edi Putra 👋</h1>
+<h2 align="left">Hello World!! I'm Edi Putra 👋</h2>
 
-<h3 align="left">Student | Developer | Content Creator</h3>
+<h4 align="left">Student | Developer | Content Creator</h4>
 
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bangedy07" target="_blank">
@@ -45,14 +46,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
