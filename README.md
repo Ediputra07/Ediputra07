@@ -1,22 +1,75 @@
-# Hello World! I'm Edi Putra 👋
-
 ![BangEdy](./img/github-header-image.png)
 
-##### I’m currently learning 📝🖋️🗿
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,bootstrap,js,php" />
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl0Mm1jeGhqMHVqd2JoaDBnbGh2YzNrOTB0ajFjc3VrM2Zpdms1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EvqAD0P9gwbOo/giphy.gif"  />
+
+###
+
+<h1 align="left">Hello World!! I'm Edi Putra 👋</h1>
+
+###
+
+<h3 align="left">Student | Developer | Content Creator</h3>
+
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/bangedy07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://www.instagram.com/bang_edy7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+6281234276246" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-##### Connect With Me ⬇️⬇️⬇️
+###
 
-![https://www.linkedin.com/in/bangedy07](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/Ediputra07](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://www.instagram.com/bang_edy7](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<br clear="both">
 
-##### My Github Stats 😢😭😿
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ediputra07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ediputra07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ediputra07&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
-![Bangedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ediputra07&theme=holi&show_icons=true)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ediputra07&layout=donut)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif?cid=ecf05e473mkw0co67hjdon4p7u5b6qlqgrtxfwhum1haqozd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
