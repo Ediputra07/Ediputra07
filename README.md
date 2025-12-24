@@ -1,59 +1,62 @@
 ![BangEdy](./img/github-header-image.png)
 
+<h2 align="left">Hi, I'm Edi Putra 👋</h2>
 
-<h2 align="left">Hello World!! I'm Edi Putra 👋</h2>
+<h4 align="left">
+Information Systems Student · Web-Oriented Learner
+</h4>
 
-<h4 align="left">Student | Developer | Content Creator</h4>
+---
 
-###
+I focus on understanding how the web is **structured, documented, and evolved over time**.  
+Currently learning web development fundamentals with an emphasis on **semantic HTML, clean documentation, and version control practices** that support collaboration and long-term maintainability.
+
+Rather than rushing through tutorials, I prioritize **conceptual clarity** and building small but meaningful artifacts.
+
+---
+
+### 🌐 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bangedy07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bang_edy7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🛠 Technologies I’ve worked with
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ediputra07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ediputra07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ediputra07&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="HTML5" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="36" alt="PHP" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
 </div>
 
-###
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ediputra07&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Ediputra07&theme=dracula&hide_border=true" height="150" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/snake.svg" alt="Contribution snake animation" />
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif?cid=ecf05e473mkw0co67hjdon4p7u5b6qlqgrtxfwhum1haqozd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="180" src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif" />
 </div>
-
-###
