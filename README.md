@@ -1,4 +1,4 @@
-![BangEdy](./assets/banner-github.png)
+![BangEdy](./assets/github-header-image.png)
 
 <h2 align="left">Hi, I'm Edi Putra 👋</h2>
 
