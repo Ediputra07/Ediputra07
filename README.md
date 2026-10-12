@@ -1,89 +1,94 @@
 ![BangEdy](./assets/github-header-image.png)
 
-<h2 align="left">Hi, I'm Edi Putra 👋</h2>
+<div align="center">
 
-<h4 align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bangedy07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bgdyptr)
+[![Live Demo](https://img.shields.io/badge/Finance_Tracker-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://finance-tracker-wine-gamma.vercel.app)
+
+</div>
+
+```bash
+┌──(ediputra㉿portfolio)-[~]
+└─$ whoami
+Edi Putra (@Ediputra07)
 Information Systems Student · Aspiring Full-Stack Developer
-</h4>
+
+┌──(ediputra㉿portfolio)-[~]
+└─$ cat focus.json
+{
+  "mission": "Building real-world web apps from the ground up (why > how)",
+  "current_stack": ["React", "Vite", "Tailwind CSS", "Supabase"],
+  "workflow": "AI-assisted development with Claude & GitHub Copilot",
+  "interests": ["Full-Stack Architecture", "Game Development", "Interactive Experiences"]
+}
+```
 
 ---
 
-I'm learning to build real-world web apps from the ground up — from semantic HTML to modern React stacks. I focus on understanding **why** things work, not just **how**, and document my journey through small but meaningful projects.
+### 🚀 Featured Project: `finance-tracker`
 
-Currently exploring full-stack development with **React, Supabase, and Tailwind**, while keeping fundamentals (HTML, CSS, JavaScript, PHP) sharp. Long-term interest leans toward **game development** and interactive web experiences.
+```bash
+$ curl -s https://api.github.com/repos/Ediputra07/finance-tracker
+```
 
-I work alongside AI tools (Claude, GitHub Copilot) as part of my workflow — using them to accelerate learning, debug efficiently, and ship better code. AI-assisted development is a skill in itself, and I'm committed to using these tools thoughtfully.
+> **A personal finance web application** built with React + Supabase.  
+> Mobile-first money manager with authentication, CRUD transactions, dashboard analytics (charts), and adaptive navigation (bottom bar for mobile, sidebar for desktop). Deployed on Vercel with Row Level Security (RLS) on Supabase.
 
----
-
-### 🚀 Featured Project
-
-**[Finance Tracker](https://github.com/Ediputra07/finance-tracker)** — A personal finance web app built with React + Supabase
-
-🌐 [Live Demo](https://finance-tracker-wine-gamma.vercel.app)
-
-A mobile-first money manager with auth, CRUD transactions, dashboard analytics (charts), and adaptive navigation (bottom nav for mobile, sidebar for desktop). Deployed on Vercel with Row Level Security on Supabase.
-
-**Stack:** React · Vite · Tailwind CSS · Supabase · Recharts · React Router
-
----
-
-### 🌐 Connect with me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/bangedy07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+<p align="left">
+  <a href="https://finance-tracker-wine-gamma.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Vercel-black?style=flat-square&logo=vercel" alt="Live Demo" />
   </a>
-  <a href="https://www.instagram.com/bgdyptr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
+  <a href="https://github.com/Ediputra07/finance-tracker" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=flat-square&logo=github" alt="Repository" />
   </a>
-</div>
+  <img src="https://img.shields.io/badge/Stack-React_•_Vite_•_Tailwind_•_Supabase_•_Recharts-2563EB?style=flat-square" alt="Stack" />
+</p>
 
 ---
 
-### 🛠 Tech I work with
+### ⚡ System Capabilities & Stack
 
-**Building with:**
-<div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="36" alt="Vite" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="36" alt="Supabase" />
-</div>
+**`> Current Development Stack`**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase&theme=dark" alt="Current Stack" />
+  </a>
+</p>
 
-**Fundamentals:**
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="HTML5" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="36" alt="PHP" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
-</div>
+**`> Core Fundamentals & Languages`**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py&theme=dark" alt="Fundamentals" />
+  </a>
+</p>
+
+**`> Workflow & Tooling`**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" alt="Tools" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ediputra07&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Ediputra07&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ediputra07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ediputra07&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediputra07&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 </div>
 
 ---
+
+### 🐍 Contribution Stream
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ediputra07/Ediputra07/output/snake.svg" alt="Contribution snake animation" />
-</div>>
-
----
-
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif" />
-</div>
+</div>
